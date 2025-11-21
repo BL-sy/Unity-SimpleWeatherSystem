@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 1a2647daabfc79646a81d42555d1328e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dayClearSkybox: {fileID: 2100000, guid: 9c15580ba34c4734199689afa0ada27c, type: 2}
+  - dayCloudySkybox: {fileID: 2100000, guid: d2835f6014452f0409626485ff46dea8, type: 2}
+  - dayRainSkybox: {fileID: 2100000, guid: d2835f6014452f0409626485ff46dea8, type: 2}
+  - daySnowSkybox: {fileID: 2100000, guid: e95aa84d71172c74e8e9ed9c3e38a2d8, type: 2}
+  - duskClearSkybox: {fileID: 2100000, guid: 2cd82df51cfcda242a11911af7a97f24, type: 2}
+  - duskCloudySkybox: {fileID: 2100000, guid: 005db78b04edf3944a49b29d59e0045c, type: 2}
+  - duskRainSkybox: {fileID: 2100000, guid: 005db78b04edf3944a49b29d59e0045c, type: 2}
+  - duskSnowSkybox: {fileID: 2100000, guid: e95aa84d71172c74e8e9ed9c3e38a2d8, type: 2}
+  - nightClearSkybox: {fileID: 2100000, guid: fd14ce343c49b1f4c84a5b24428cf059, type: 2}
+  - nightCloudySkybox: {fileID: 2100000, guid: 88814b42a3d8c4f49b96c3419c4ebb9b, type: 2}
+  - nightRainSkybox: {fileID: 2100000, guid: 88814b42a3d8c4f49b96c3419c4ebb9b, type: 2}
+  - nightSnowSkybox: {fileID: 2100000, guid: 88814b42a3d8c4f49b96c3419c4ebb9b, type: 2}
+  - dayBtn: {instanceID: 0}
+  - duskBtn: {instanceID: 0}
+  - nightBtn: {instanceID: 0}
+  - clearBtn: {instanceID: 0}
+  - cloudyBtn: {instanceID: 0}
+  - rainBtn: {instanceID: 0}
+  - snowBtn: {instanceID: 0}
+  - mainLight: {instanceID: 0}
+  - statusText: {instanceID: 0}
+  - rainParticle: {instanceID: 0}
+  - snowParticle: {instanceID: 0}
+  - realTimeFetcher: {instanceID: 0}
+  - realTimeToggle: {instanceID: 0}
+  - refreshRealTimeBtn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
